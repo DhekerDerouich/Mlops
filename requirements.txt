@@ -1,0 +1,8 @@
+prefect
+black
+flake8
+bandit
+pytest
+pandas
+scikit-learn
+joblib
